@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sop:home|Door43 (sop)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sop|d43-sop repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sop/archive/master.zip|d43-sop.zip]]
+
+**Recent Changes**
+{{changes>ns = sop}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sop|Ethnologue data]]
+
